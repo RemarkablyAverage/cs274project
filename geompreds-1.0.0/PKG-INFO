@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: geompreds
+Version: 1.0.0
+Summary: Adaptive Precision Floating-Point Arithmetic and 
+    Fast Robust Predicates for Computational Geometry for Python
+Home-page: https://bitbucket.org/bmmeijers/predicates/
+Author: Martijn Meijers
+Author-email: b dot m dot meijers at tudelft dot nl
+License: MIT license
+Description: UNKNOWN
+Platform: UNKNOWN
